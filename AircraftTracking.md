@@ -59,3 +59,12 @@ https://www.flightradar24.com/account/data-sharing
 # Thank You!
 
 @PaulComis
+
+
+
+# Further Reading
+FlightRadar24 Build Instructions : https://www.flightradar24.com/build-your-own
+How FlightRadar24 Does MLAT tracking
+Dump1009
+ADS-B : https://en.wikipedia.org/wiki/Automatic_dependent_surveillance-broadcast
+
