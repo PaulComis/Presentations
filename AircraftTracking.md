@@ -27,7 +27,12 @@
 
 
 # Demo
+The Live feed from my base station:
 http://109.152.118.217:27001/dump1090
+
+
+The Dashboard page at FlightRadar 24
+https://www.flightradar24.com/account/data-sharing
 
 
 
