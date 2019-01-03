@@ -30,7 +30,6 @@
 The Live feed from my base station:
 http://109.152.118.217:27001/dump1090
 
-
 The Dashboard page at FlightRadar 24
 https://www.flightradar24.com/account/data-sharing
 
@@ -64,7 +63,10 @@ https://www.flightradar24.com/account/data-sharing
 
 # Further Reading
 FlightRadar24 Build Instructions : https://www.flightradar24.com/build-your-own
+
 How FlightRadar24 Does MLAT tracking : https://www.flightradar24.com/blog/how-we-track-flights-with-mlat/
+
 Dump1009
+
 ADS-B : https://en.wikipedia.org/wiki/Automatic_dependent_surveillance-broadcast
 
